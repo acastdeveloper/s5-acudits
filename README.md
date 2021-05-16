@@ -2,20 +2,20 @@
 
 ## Descripció
 
-Com ja hauràs après, existeixen nombroses plataformes que proporcionen una API perquè puguis consumir les seves dades.  
-Aquestes APIs poden ser gratuïtes o de pagament, obertes o requerir una clau de API.  
+Com ja hauràs après, existeixen nombroses plataformes que proporcionen una API perquè puguis consumir les seves dades.
+Aquestes APIs poden ser gratuïtes o de pagament, obertes o requerir una clau de API.
 
-Crearem una web d'acudits, consumint dades d'una API gratuïta que no requereix clau. Veuràs que és molt divertit i interessant poder obtenir dades d'una API, imagina la quantitat de webs que pots fer!  
+Crearem una web d'acudits, consumint dades d'una API gratuïta que no requereix clau. Veuràs que és molt divertit i interessant poder obtenir dades d'una API, imagina la quantitat de webs que pots fer!
 
-En l'àmbit professional, quan treballis en un projecte, l'empresa normalment té un backend amb una documentació per a poder obtenir les dades. A més, en moltes ocasions, una web o app no sols té una font de dades, també és comuna utilitzar APIs de tercers. Resumint, saber consumir dades d'una API és un dels skills més importants d'un programador frontend!  
+En l'àmbit professional, quan treballis en un projecte, l'empresa normalment té un backend amb una documentació per a poder obtenir les dades. A més, en moltes ocasions, una web o app no sols té una font de dades, també és comuna utilitzar APIs de tercers. Resumint, saber consumir dades d'una API és un dels skills més importants d'un programador frontend!
 
 Abans de començar, aquí tens la informació de la API que utilitzarem en aquest exercici:
 
--    URL de la API:  
+-    URL de la API:
 
-https://icanhazdadjoke.com/  
+https://icanhazdadjoke.com/
 
--    Header per a obtenir les dades en el format que ens interessa:  
+-    Header per a obtenir les dades en el format que ens interessa:
 
 'Accept': 'application/json'
 
@@ -23,13 +23,13 @@ https://icanhazdadjoke.com/
 
 #### Exercici 1
 
-Crear la web d'acudits, el funcionament dels quals és:  
+Crear la web d'acudits, el funcionament dels quals és:
 
 - En entrar no mostrarà cap acudit. Apareixerà el títol i el botó de següent acudit“
 
 - En prémer el botó de “Següent acudit” es farà fetch a la API d'acudits i es mostrarà per consola l'acudit en qüestió.
 
-Nota: En aquest exercici no és necessari maquetar la web, primer farem que funcioni per a passar a aplicar-li els estils.  
+Nota: En aquest exercici no és necessari maquetar la web, primer farem que funcioni per a passar a aplicar-li els estils.
 
 Tip 1: usar promises o async/await per a esperar la resposta de la API
 
@@ -55,7 +55,7 @@ Nota: Encara no és necessari maquetar la web, amb mostrar una paraula que indiq
 
 Maquetar la web d'acudits i temps meteorològic conforme a la següent pantalla:
 
-![exemple.png](J:\laragon\www\s5-acudits\img\exemple.png)
+![exemple.png](.\img\exemple.png)
 
 #### Exercici 5
 
