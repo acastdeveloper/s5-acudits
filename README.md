@@ -55,7 +55,7 @@ Nota: Encara no és necessari maquetar la web, amb mostrar una paraula que indiq
 
 Maquetar la web d'acudits i temps meteorològic conforme a la següent pantalla:
 
-![exemple.png](.\img\exemple.png)
+![exemple.png](./img/exemple.png)
 
 #### Exercici 5
 
